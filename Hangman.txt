@@ -1,0 +1,7 @@
+This is a hangman program which
+a word is grabbed from a txt file
+the player guess a single letter
+the player was given limited trials
+
+Concept practiced Random Variables Boolean
+Integer Char String Length
